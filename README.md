@@ -6,4 +6,10 @@ Tasks
 
 21-01-2025
 
-Added 3 Self Practice Problem 
+Added 3 Self Practice Problem
+
+22-01-2025
+
+Created branch feature_22-01-2025
+
+Added 16 basic codes with and without user input.  
